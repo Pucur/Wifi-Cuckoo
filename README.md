@@ -1,6 +1,6 @@
 # 🕰️ ESP8266 Wi‑Fi Cuckoo Clock (with TM1637 Display)
 
-![My SmartPlant setup](https://i.kek.sh/oIme08u8tA7.jpg)
+![Cuckoo](https://i.kek.sh/oIme08u8tA7.jpg)
 
 This is a Wi‑Fi‑based “cuckoo” clock 🐦 running on an ESP8266 that:
 - 🌐 Synchronizes the time from NTP.
